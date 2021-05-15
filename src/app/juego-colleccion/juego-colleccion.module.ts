@@ -26,4 +26,5 @@ const routes: Routes = [
   ],
   declarations: [JuegoColleccionPage]
 })
+
 export class JuegoColleccionPageModule {}
